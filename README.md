@@ -6,6 +6,9 @@ A public, explorable dataset & hub for my digital humanities project comparing *
 👇 Explore the interactive database & charts:
 
 👉 **Interactive View (Voyage):** (https://voyant-tools.org/?corpus=0d1c91e75ffa0b14cc37dd1801c88960&panels=cirrus,reader,trends,summary,contexts)]
+👉 **Xianxia Glossary (wordpress):** https://immortalmountain.wordpress.com/glossary/wuxia-xianxia-xuanhuan-terms/
+
+
 
 ---
 
