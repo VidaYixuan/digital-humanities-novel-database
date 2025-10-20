@@ -5,7 +5,7 @@ A digital humanities project comparing AI-generated and human-authored Chinese x
 A public, explorable dataset & hub for my digital humanities project comparing **AI-generated** and **human-authored** xianxia/xiuzhen fiction.  
 👇 Explore the interactive database & charts:
 
-👉 **Interactive View (Airtable):** [https://airtable.com/appTCrDkwfBiSpVae/shr69k1dJManGIDtg]
+👉 **Interactive View (Voyage):** (https://voyant-tools.org/?corpus=0d1c91e75ffa0b14cc37dd1801c88960&panels=cirrus,reader,trends,summary,contexts)]
 
 ---
 
