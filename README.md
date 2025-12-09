@@ -5,7 +5,7 @@ A digital humanities project comparing AI-generated and human-authored Chinese x
 A public, explorable dataset & hub for my digital humanities project comparing **AI-generated** and **human-authored** xianxia/xiuzhen fiction.  
 👇 Explore the interactive database & charts:
 
-👉 **Interactive View (Voyant):** [(https://voyant-tools.org/?corpus=0d1c91e75ffa0b14cc37dd1801c88960&panels=cirrus,reader,trends,summary,contexts)]](https://voyant-tools.org/?corpus=3113b8b25a46d2fd2196838d0ae7762d&panels=cirrus,reader,trends,summary,contexts)
+👉 **Interactive View (Voyant):** [[(https://voyant-tools.org/?corpus=0d1c91e75ffa0b14cc37dd1801c88960&panels=cirrus,reader,trends,summary,contexts)]](https://voyant-tools.org/?corpus=3113b8b25a46d2fd2196838d0ae7762d&panels=cirrus,reader,trends,summary,contexts)](https://voyant-tools.org/?corpus=3113b8b25a46d2fd2196838d0ae7762d&panels=cirrus,reader,trends,summary,contexts)
 👉 **Xianxia Glossary (wordpress):** https://immortalmountain.wordpress.com/glossary/wuxia-xianxia-xuanhuan-terms/
 
 
@@ -128,6 +128,13 @@ This version of the project emphasizes:
 - 🔠 A computational replication using Python that models how emotional density shifts across narrative time
 
 Rather than trying to “prove” whether AI can write like a human, this update frames the project as an exploration of **what becomes visible when we read through machines**—and how narrative patterns differ when authorship is algorithmic versus intentional.
+
+ Emotions & Sensations words
+1. (Positive Emotions): 笑 (Laugh / Smile), 高兴 (Happy / Glad), 欢 (Joy / Delight), 喜 (Happy / Joyful), 乐 (Joy / Fun), 兴 (Excitement / Interest), 悦 (Delight / Pleased), 爱 (Love), 柔 (Gentle / Soft), 温柔 (Tenderness / Gentle), 满意 (Satisfied / Content), 欣喜 (Ecstatic / Joyfully surprised), 欣慰 (Relieved / Gratified), 愉 (Pleasant / Cheerful), 愉快 (Happy / Cheerful), 兴奋 (Excited), 激动 (Agitated / Thrilled / Emotional)
+
+2.  (Negative Emotions): 苦 (Bitter / Suffering), 痛 (Pain), 痛苦 (Suffering / Agony), 哭 (Cry), 泪 (Tears), 悲 (Sad / Sorrow), 悲伤 (Sorrow / Sadness), 哀 (Grief / Mourning), 愁 (Worry / Melancholy), 怒 (Anger / Rage), 恨 (Hate / Hatred), 怨 (Resentment), 憎 (Detest / Abhor), 恐 (Fear / Dread), 怕 (Scared / Afraid), 惧 (Fear), 惊 (Surprise / Shock / Fright), 累 (Tired / Weary), 疲 (Fatigue / Exhausted), 心酸 (Heartbroken / Poignant), 难过 (Sad / Upset), 冷酷 (Cold-blooded / Ruthless)
+
+3. (States & Cognition): 想 (Think / Miss), 感 (Feel / Sense), 觉 (Feel / Perceive), 恍惚 (Trance / Absent-minded), 犹豫 (Hesitate), 好奇 (Curious), 平静 (Calm / Peaceful), 冷静 (Cool-headed / Calm), 腼腆 (Shy / Bashful)
 
 This README now includes:
 - A reorganized project overview  
