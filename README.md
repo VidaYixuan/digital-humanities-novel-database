@@ -69,7 +69,7 @@ Rather than building a large dataset, I work with a **very small corpus**:
 ### Tools
 
 - **Voyant Tools**
-  - *Cirrus* – overall word frequency and stylistic profile  
+  - *Cirrus* – overall word frequency profile  
   - *Trends* – emotional / psychological keywords over narrative time  
 
   
@@ -117,7 +117,28 @@ Rather than building a large dataset, I work with a **very small corpus**:
 - **AI authorship becomes a pattern, not a mystery.**  
   Through rare-character spikes, emotional vocabulary, and repetition patterns, AI writing appears as something we can analyze, question, and understand—rather than a purely opaque “black box.”
 
+  ## 🌟 Project Update — December 9, 2025
+
+This final update reflects a refined direction for my Digital Humanities project. Over the semester, my focus has shifted from building a large comparative database to developing a **small-corpus, interpretive, and tool-assisted reading of AI vs. human xianxia fiction**.
+
+This version of the project emphasizes:
+- 🧭 A clearer research question about *narrative logic* and *emotional structure*
+- 📊 The use of **Voyant Tools** (Trends, Bubblelines) to reveal stylistic and structural patterns
+- ✨ A new set of **geometric visual signatures** that distinguish human teleology from AI stochasticity
+- 🔠 A computational replication using Python that models how emotional density shifts across narrative time
+
+Rather than trying to “prove” whether AI can write like a human, this update frames the project as an exploration of **what becomes visible when we read through machines**—and how narrative patterns differ when authorship is algorithmic versus intentional.
+
+This README now includes:
+- A reorganized project overview  
+- Updated methodology and corpus description  
+- Summarized key findings  
+- A Python snippet that reconstructs the logic behind Voyant’s relative-frequency analysis  
+
+This version represents my final DH project for Fall 2025, highlighting both digital technique and humanistic interpretation.
+
+
 ---
 
-*This repository accompanies a course project in digital humanities and is meant as an experiment in thinking about AI authorship, style, and machine-assisted reading.*
+*This repository accompanies a course project in digital humanities and is meant as an experiment in thinking about AI style, and machine-assisted reading.*
 
