@@ -5,7 +5,7 @@ A digital humanities project comparing AI-generated and human-authored Chinese x
 A public, explorable dataset & hub for my digital humanities project comparing **AI-generated** and **human-authored** xianxia/xiuzhen fiction.  
 👇 Explore the interactive database & charts:
 
-👉 **Interactive View (Voyage):** (https://voyant-tools.org/?corpus=0d1c91e75ffa0b14cc37dd1801c88960&panels=cirrus,reader,trends,summary,contexts)]
+👉 **Interactive View (Voyant):** [(https://voyant-tools.org/?corpus=0d1c91e75ffa0b14cc37dd1801c88960&panels=cirrus,reader,trends,summary,contexts)]](https://voyant-tools.org/?corpus=3113b8b25a46d2fd2196838d0ae7762d&panels=cirrus,reader,trends,summary,contexts)
 👉 **Xianxia Glossary (wordpress):** https://immortalmountain.wordpress.com/glossary/wuxia-xianxia-xuanhuan-terms/
 
 
