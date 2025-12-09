@@ -119,7 +119,7 @@ Rather than building a large dataset, I work with a **very small corpus**:
 
   ## 🌟 Project Update — December 9, 2025
 
-This final update reflects a refined direction for my Digital Humanities project. Over the semester, my focus has shifted from building a large comparative database to developing a **small-corpus, interpretive, and tool-assisted reading of AI vs. human xianxia fiction**.
+This final update reflects a refined direction for my Digital Humanities project. Over the semester, my focus has developed to make a **interpretive, and tool-assisted reading of AI vs. human xianxia fiction**.
 
 This version of the project emphasizes:
 - 🧭 A clearer research question about *narrative logic* and *emotional structure*
