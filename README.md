@@ -144,7 +144,7 @@ This README now includes:
 - Summarized key findings  
 - A Python snippet that reconstructs the logic behind Voyant’s relative-frequency analysis
 - The Python I have tried to use for adding spaces:
-- ```
+```
   python
 import jieba
 
@@ -156,7 +156,7 @@ result = ' '.join(words)
 
 with open('output.txt', 'w', encoding='utf-8') as f:
     f.write(result)
-    ```
+```
 
 This version represents my final DH project for Fall 2025, highlighting both digital technique and humanistic interpretation.
 
