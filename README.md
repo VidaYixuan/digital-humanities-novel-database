@@ -125,9 +125,8 @@ This version of the project emphasizes:
 - 🧭 A clearer research question about *narrative logic* and *emotional structure*
 - 📊 The use of **Voyant Tools** (Trends, Bubblelines) to reveal stylistic and structural patterns
 - ✨ A new set of **geometric visual signatures** that distinguish human teleology from AI stochasticity
-- 🔠 Using Python that helped to figure out how Chinese words can be successflully telled by Voyant
-- 
-- 
+- 🔠 Using Python that helped to figure out how Chinese words can be successflully telled by Voyant （for text No.03）
+  
 
 Rather than trying to “prove” whether AI can write like a human, this update frames the project as an exploration of **what becomes visible when we read through machines**—and how narrative patterns differ when authorship is algorithmic versus intentional.
 
