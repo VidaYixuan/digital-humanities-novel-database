@@ -154,8 +154,7 @@ words = jieba.cut(text)
 result = ' '.join(words)
 
 with open('output.txt', 'w', encoding='utf-8') as f:
-    f.write(result)
-```
+    f.write(result)```
 
 This version represents my final DH project for Fall 2025, highlighting both digital technique and humanistic interpretation.
 
