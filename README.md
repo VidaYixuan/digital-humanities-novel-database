@@ -117,7 +117,7 @@ Rather than building a large dataset, I work with a **very small corpus**:
 - **AI authorship becomes a pattern, not a mystery.**  
   Through rare-character spikes, emotional vocabulary, and repetition patterns, AI writing appears as something we can analyze, question, and understand—rather than a purely opaque “black box.”
 
-  ## 🌟 Project Update — December 9, 2025
+  ## 🌟 Project Update — December 9, 2025 (emotion words updates)
 
 This final update reflects a refined direction for my Digital Humanities project. Over the semester, my focus has developed to make a **interpretive, and tool-assisted reading of AI vs. human xianxia fiction**.
 
@@ -125,7 +125,9 @@ This version of the project emphasizes:
 - 🧭 A clearer research question about *narrative logic* and *emotional structure*
 - 📊 The use of **Voyant Tools** (Trends, Bubblelines) to reveal stylistic and structural patterns
 - ✨ A new set of **geometric visual signatures** that distinguish human teleology from AI stochasticity
-- 🔠 A computational replication using Python that models how emotional density shifts across narrative time
+- 🔠 A computational replication using Python that helped to figure out how Chinese words can be successflully telled by Voyant
+- 
+- 
 
 Rather than trying to “prove” whether AI can write like a human, this update frames the project as an exploration of **what becomes visible when we read through machines**—and how narrative patterns differ when authorship is algorithmic versus intentional.
 
@@ -140,7 +142,23 @@ This README now includes:
 - A reorganized project overview  
 - Updated methodology and corpus description  
 - Summarized key findings  
-- A Python snippet that reconstructs the logic behind Voyant’s relative-frequency analysis  
+- A Python snippet that reconstructs the logic behind Voyant’s relative-frequency analysis
+- The Python I have tried to use for adding spaces:
+- import jieba
+
+# 读取原文件
+with open('人蜜_作者_黑猫白袜子_3_.txt', 'r', encoding='utf-8') as f:
+    text = f.read()
+
+# 分词
+words = jieba.cut(text)
+result = ' '.join(words)
+
+# 保存结果
+with open('人蜜_分词版.txt', 'w', encoding='utf-8') as f:
+    f.write(result)
+
+print("分词完成！")
 
 This version represents my final DH project for Fall 2025, highlighting both digital technique and humanistic interpretation.
 
