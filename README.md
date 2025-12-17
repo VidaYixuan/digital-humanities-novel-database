@@ -125,7 +125,7 @@ This version of the project emphasizes:
 - 🧭 A clearer research question about *narrative logic* and *emotional structure*
 - 📊 The use of **Voyant Tools** (Trends, Bubblelines) to reveal stylistic and structural patterns
 - ✨ A new set of **geometric visual signatures** that distinguish human teleology from AI stochasticity
-- 🔠 A computational replication using Python that helped to figure out how Chinese words can be successflully telled by Voyant
+- 🔠 Using Python that helped to figure out how Chinese words can be successflully telled by Voyant
 - 
 - 
 
@@ -144,21 +144,18 @@ This README now includes:
 - Summarized key findings  
 - A Python snippet that reconstructs the logic behind Voyant’s relative-frequency analysis
 - The Python I have tried to use for adding spaces:
-- import jieba
+- ```python
+import jieba
 
-# 读取原文件
-with open('人蜜_作者_黑猫白袜子_3_.txt', 'r', encoding='utf-8') as f:
+with open('input.txt', 'r', encoding='utf-8') as f:
     text = f.read()
 
-# 分词
 words = jieba.cut(text)
 result = ' '.join(words)
 
-# 保存结果
-with open('人蜜_分词版.txt', 'w', encoding='utf-8') as f:
+with open('output.txt', 'w', encoding='utf-8') as f:
     f.write(result)
-
-print("分词完成！")
+```
 
 This version represents my final DH project for Fall 2025, highlighting both digital technique and humanistic interpretation.
 
